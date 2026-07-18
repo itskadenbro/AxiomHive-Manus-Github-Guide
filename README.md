@@ -60,6 +60,10 @@ Comprehensive documentation is available for all aspects of the system:
 | **Standards** | [Development Standards](./docs/architecture/standards.md) |
 | **Compliance** | [GDPR & NIST Alignment](./docs/compliance/gdpr_nist.md) |
 | **Ethics** | [Non-Harm Principle](./docs/ethics/non_harm_principle.md) |
+| **Operations** | [User Manual](./docs/operations/user_manual.md) |
+| **Technical** | [Reference Manual](./docs/technical/reference_manual.md) |
+| **Administrative** | [Procedures](./docs/administrative/procedures.md) |
+| **Legal** | [Legal Framework](./docs/legal/framework.md) |
 
 ## Ethical Framework
 
