@@ -51,6 +51,23 @@ The repository is organized to separate concerns and enhance development efficie
 - **`configs/`**: Configuration parameters for system modules.
 - **`models/`**: Storage for trained model artifacts and metadata.
 
+## AI Assistant
+
+AxiomHive includes a functional AI Assistant that integrates the repository's documentation and system capabilities. You can interact with the assistant via the provided CLI.
+
+### Basic Usage
+
+```bash
+# Chat with the assistant about the system or documentation
+./axiomhive_cli.py chat "Explain the Non-Harm Principle"
+
+# Perform strategic threat analysis on a data payload
+./axiomhive_cli.py analyze path/to/payload.json
+
+# Process an image with professional editorial grading and branding
+./axiomhive_cli.py image input.jpg output.jpg --text "AXIOMHIVE"
+```
+
 ## Documentation
 
 Comprehensive documentation is available for all aspects of the system:
