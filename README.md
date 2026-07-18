@@ -3,6 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GDPR Compliant](https://img.shields.io/badge/Compliance-GDPR-blue.svg)](https://gdpr-info.eu/)
 [![NIST AI RMF](https://img.shields.io/badge/Framework-NIST%20AI%20RMF-green.svg)](https://www.nist.gov/itl/ai-risk-management-framework)
+[![ISO 42001](https://img.shields.io/badge/Standard-ISO%2042001-orange.svg)](./docs/compliance/iso_42001_aims.md)
+[![EU AI Act](https://img.shields.io/badge/Regulation-EU%20AI%20Act-blue.svg)](./docs/legal/eu_ai_act.md)
+[![OECD AI](https://img.shields.io/badge/Principles-OECD%20AI-red.svg)](./docs/ethics/oecd_principles.md)
 
 ## Overview
 
@@ -86,6 +89,9 @@ Comprehensive documentation is available for all aspects of the system:
 | **Administrative** | [Procedures](./docs/administrative/procedures.md) |
 | **Legal** | [Legal Framework](./docs/legal/framework.md) |
 | **Defense Utility** | [Legal Defense Utility](./docs/legal/defense_utility.md) |
+| **ISO 42001** | [AI Management System](./docs/compliance/iso_42001_aims.md) |
+| **EU AI Act** | [Technical Documentation](./docs/legal/eu_ai_act.md) |
+| **OECD Principles** | [Implementation Guide](./docs/ethics/oecd_principles.md) |
 
 ## Ethical Framework
 
