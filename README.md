@@ -44,7 +44,10 @@ The system prioritizes efficiency, safety, and correctness, providing decision-m
 The repository is organized to separate concerns and enhance development efficiency:
 
 - **`docs/`**: Detailed documentation on architecture, compliance, and ethics.
-- **`src/`**: Core system logic, including training, inference, and utilities.
+- **`src/`**: Functional system logic, including real AI analysis, data ingestion, and image processing.
+  - `training/threat_analyzer.py`: Real-time AI threat analysis using GPT-4o.
+  - `utils/data_ingestion.py`: Secure data acquisition and integrity hashing.
+  - `utils/image_processor.py`: Professional editorial grading and branding engine.
 - **`configs/`**: Configuration parameters for system modules.
 - **`models/`**: Storage for trained model artifacts and metadata.
 
