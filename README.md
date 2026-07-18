@@ -39,11 +39,26 @@ The system prioritizes efficiency, safety, and correctness, providing decision-m
    # Implementation specific setup commands
    ```
 
+## Repository Structure
+
+The repository is organized to separate concerns and enhance development efficiency:
+
+- **`docs/`**: Detailed documentation on architecture, compliance, and ethics.
+- **`src/`**: Core system logic, including training, inference, and utilities.
+- **`configs/`**: Configuration parameters for system modules.
+- **`models/`**: Storage for trained model artifacts and metadata.
+
 ## Documentation
 
-Comprehensive documentation is available in the repository:
-- [Strategic Command Documentation](./AxiomHive_Comprehensive_Documentation_Final.md)
-- [Meta-Analysis Report](./AxiomHive_Meta_Analysis_Report.md)
+Comprehensive documentation is available for all aspects of the system:
+
+| Topic | Document |
+| :--- | :--- |
+| **System Overview** | [Strategic Command Documentation](./AxiomHive_Comprehensive_Documentation_Final.md) |
+| **Meta-Analysis** | [Meta-Analysis Report](./AxiomHive_Meta_Analysis_Report.md) |
+| **Architecture** | [Architecture Overview](./docs/architecture/overview.md) |
+| **Compliance** | [GDPR & NIST Alignment](./docs/compliance/gdpr_nist.md) |
+| **Ethics** | [Non-Harm Principle](./docs/ethics/non_harm_principle.md) |
 
 ## Ethical Framework
 
