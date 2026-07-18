@@ -62,8 +62,10 @@ Comprehensive documentation is available for all aspects of the system:
 | **Ethics** | [Non-Harm Principle](./docs/ethics/non_harm_principle.md) |
 | **Operations** | [User Manual](./docs/operations/user_manual.md) |
 | **Technical** | [Reference Manual](./docs/technical/reference_manual.md) |
+| **LLM Control** | [Zero Refusal Methodology](./docs/technical/llm_control.md) |
 | **Administrative** | [Procedures](./docs/administrative/procedures.md) |
 | **Legal** | [Legal Framework](./docs/legal/framework.md) |
+| **Defense Utility** | [Legal Defense Utility](./docs/legal/defense_utility.md) |
 
 ## Ethical Framework
 
