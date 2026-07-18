@@ -57,6 +57,7 @@ Comprehensive documentation is available for all aspects of the system:
 | **System Overview** | [Strategic Command Documentation](./AxiomHive_Comprehensive_Documentation_Final.md) |
 | **Meta-Analysis** | [Meta-Analysis Report](./AxiomHive_Meta_Analysis_Report.md) |
 | **Architecture** | [Architecture Overview](./docs/architecture/overview.md) |
+| **Standards** | [Development Standards](./docs/architecture/standards.md) |
 | **Compliance** | [GDPR & NIST Alignment](./docs/compliance/gdpr_nist.md) |
 | **Ethics** | [Non-Harm Principle](./docs/ethics/non_harm_principle.md) |
 
